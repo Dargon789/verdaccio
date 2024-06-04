@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "dependencies": {
     "@verdaccio/test-cli-commons": "workspace:1.1.0",
-    "pnpm": "^6.35.1"
+    "pnpm": "^9.1.4"
   },
   "scripts": {
     "test": "jest"

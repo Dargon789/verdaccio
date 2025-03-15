@@ -51,7 +51,7 @@
     "debug": "4.3.4",
     "express": "4.19.2",
     "lodash": "4.17.21",
-    "mime": "2.6.0",
+    "mime": "4.0.6",
     "semver": "7.6.2"
   },
   "devDependencies": {

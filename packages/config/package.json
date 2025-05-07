@@ -43,7 +43,7 @@
     "debug": "4.3.4",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
-    "minimatch": "8.0.0",
+    "minimatch": "10.0.1",
     "yup": "0.32.11"
   },
   "devDependencies": {

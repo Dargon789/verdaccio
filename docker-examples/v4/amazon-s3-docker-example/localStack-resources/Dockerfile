@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.13.3-alpine
 
 ENV AWS_ACCESS_KEY_ID='[something]'
 ENV AWS_SECRET_ACCESS_KEY='[something]'

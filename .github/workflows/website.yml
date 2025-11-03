@@ -111,7 +111,7 @@ jobs:
       - name: Audit preview URL with Lighthouse
         if: github.repository == 'verdaccio/verdaccio'
         id: lighthouse_audit
-        uses: treosh/lighthouse-ci-action@03becbfc543944dd6e7534f7ff768abb8a296826 # tag=10.1.0
+        uses: treosh/lighthouse-ci-action@fcd65974f7c4c2bf0ee9d09b84d2489183c29726 # tag=12.6.1
         with:
           urls: |
             ${{ steps.netlify_preview.outputs.preview-url }}

@@ -45,7 +45,7 @@
     "debug": "4.3.4",
     "lru-cache": "7.18.3",
     "express": "4.22.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mime": "2.6.0",
     "express-rate-limit": "5.5.1"
   },

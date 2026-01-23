@@ -44,7 +44,7 @@
     "debug": "4.3.4",
     "fastify": "5.2.1",
     "fastify-plugin": "4.5.1",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   },
   "devDependencies": {
     "@verdaccio/types": "workspace:12.0.0-next.2",

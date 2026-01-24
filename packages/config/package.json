@@ -42,7 +42,7 @@
     "@verdaccio/utils": "workspace:7.0.0-next-7.7",
     "debug": "4.3.4",
     "js-yaml": "4.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "minimatch": "8.0.0",
     "yup": "0.32.11"
   },

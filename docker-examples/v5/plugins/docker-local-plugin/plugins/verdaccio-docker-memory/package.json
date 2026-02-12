@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "@verdaccio/streams": "1.0.0",
-    "http-errors": "1.6.3",
+    "http-errors": "2.0.0",
     "memory-fs": "0.4.1"
   },
   "keywords": [

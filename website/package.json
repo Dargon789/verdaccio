@@ -28,7 +28,7 @@
     "@docusaurus/preset-classic": "2.4.3",
     "@docusaurus/remark-plugin-npm2yarn": "2.4.3",
     "@docusaurus/theme-common": "2.4.3",
-    "@docusaurus/theme-mermaid": "2.4.3",
+    "@docusaurus/theme-mermaid": "3.0.0",
     "@docusaurus/theme-search-algolia": "2.4.3",
     "@emotion/cache": "11.10.7",
     "@emotion/css": "11.10.6",
